@@ -1,8 +1,11 @@
 # STViT-R
 This is an official implementation for "Making Vision Transformers Efficient from A Token Sparsification View". It is based on [Swin Transformer](https://github.com/microsoft/Swin-Transformer).
-> **Object Detection and Instance Segmentation**: See [STViT-R-Object-Detection](https://github.com/changsn/STViT-R-Object-Detection)
+
 **Notes:**
 We will further clean the code and release the checkpoints in the future.
+
+> **Object Detection and Instance Segmentation**: See [STViT-R-Object-Detection](https://github.com/changsn/STViT-R-Object-Detection)
+
 
 ## Results on ImageNet
 | Model | Accuracy |
