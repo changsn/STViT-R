@@ -1,6 +1,6 @@
 # STViT-R
 
-This folder contains the implementation of the Swin Transformer for image classification.
+This folder contains the implementation of the STViT-R for image classification.
 
 ### Install
 
