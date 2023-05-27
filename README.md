@@ -41,10 +41,11 @@ python -m torch.distributed.launch --nproc_per_node 8 --master_port 12345  main.
 
 ## Citing STViT-R
 ```
-@article{chang2023making,
+@inproceedings{chang2023making,
   title={Making Vision Transformers Efficient from A Token Sparsification View},
   author={Chang, Shuning and Wang, Pichao and Lin, Ming and Wang, Fan and Zhang, David Junhao and Jin, Rong and Shou, Mike Zheng},
-  journal={arXiv preprint arXiv:2303.08685},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6195--6205},
   year={2023}
 }
 ```
