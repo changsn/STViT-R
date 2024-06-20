@@ -1,7 +1,7 @@
 MODEL:
   TYPE: swin
   NAME: swin_base_patch4_window7_224
-  DROP_PATH_RATE: 0.5
+  DROP_PATH_RATE: 0.4
   SWIN:
     EMBED_DIM: 128
     DEPTHS: [ 2, 2, 18, 2 ]
