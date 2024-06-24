@@ -8,10 +8,10 @@ We will further clean the code and release the checkpoints in the future.
 
 
 ## Results on ImageNet
-| Model | Accuracy |
-| :---: | :---: | 
-| STViT-R-Swin-S | 82.7 |
-| STViT-R-Swin-B | 83.2 |
+| Model | Accuracy | Log |
+| :---: | :---: | :---: |
+| STViT-R-Swin-S | 82.7 | [Link](https://github.com/changsn/STViT-R/blob/main/log/small.txt) |
+| STViT-R-Swin-B | 83.2 | [Link](https://github.com/changsn/STViT-R/blob/main/log/base.txt) |
 
 ## Usage
 ### Installation
