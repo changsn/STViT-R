@@ -2,16 +2,17 @@
 This is an official implementation for "Making Vision Transformers Efficient from A Token Sparsification View". It is based on [Swin Transformer](https://github.com/microsoft/Swin-Transformer).
 
 **Notes:**
-We will further clean the code and release the checkpoints in the future.
+We have upload the checkpoints on Huggingface! 🎉🎉🎉
 
 > **Object Detection and Instance Segmentation**: See [STViT-R-Object-Detection](https://github.com/changsn/STViT-R-Object-Detection)
 
 
 ## Results on ImageNet
+Our pre-trained models can be downloaded here:
 | Model | Accuracy | Log |
 | :---: | :---: | :---: |
-| STViT-R-Swin-S | 82.7 | [Link](https://github.com/changsn/STViT-R/blob/main/log/small.txt) |
-| STViT-R-Swin-B | 83.2 | [Link](https://github.com/changsn/STViT-R/blob/main/log/base.txt) |
+| [STViT-R-Swin-S](https://huggingface.co/csncsn/STViT-R/blob/main/STViT-R-Swin-S.pth) | 82.7 | [log.txt](https://github.com/changsn/STViT-R/blob/main/log/small.txt) |
+| [STViT-R-Swin-B](https://huggingface.co/csncsn/STViT-R/blob/main/STViT-R-Swin-B.pth) | 83.2 | [log.txt](https://github.com/changsn/STViT-R/blob/main/log/base.txt) |
 
 ## Usage
 ### Installation
